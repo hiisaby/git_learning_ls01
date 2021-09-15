@@ -1,4 +1,4 @@
 # git_learning_ls01
 my first git repo
 
-Readme.md was edited online in github.This line was edited locally
+this line was modifid during conflict resolution
