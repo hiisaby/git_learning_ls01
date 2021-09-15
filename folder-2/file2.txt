@@ -1,1 +1,3 @@
 the line  and file has been created locally in feature-2 branch
+
+another modification in feature-2 branch
